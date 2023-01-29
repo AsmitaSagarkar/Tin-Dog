@@ -14,6 +14,7 @@ h1{
 }
 body{
     font-family: "Montserrat";
+    overflow:scroll;
 }
 .navbar-brand{
     font-family: 'Times New Roman', Times, serif;
