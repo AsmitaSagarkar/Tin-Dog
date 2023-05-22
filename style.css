@@ -20,6 +20,9 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 4rem;
 }
+.navbar-collapse{
+    display: flex;
+}
 nav{
     margin-bottom: 20px;
 }
